@@ -24,31 +24,10 @@ $(document).ready(function() {
         },
         '3':{
             id      :3,
-            title   :"Bing CN",
-            url     :"https://cn.bing.com/search",
+            title   :"Bing",
+            url     :"https://bing.com/search",
             name    :"q",
             img     :"./static/icon/bing.ico",
-        },
-        '4':{
-            id      :4,
-            title   :"多吉",
-            url     :"https://www.dogedoge.com/results",
-            name    :"q",
-            img     :"./static/icon/doge_ico.png",
-        },
-        '5':{
-            id      :5,
-            title   :"秘迹",
-            url     :"https://mijisou.com",
-            name    :"q",
-            img     :"./static/icon/mijisou.png",
-        },
-        '6':{
-            id      :6,
-            title   :"seeres*",
-            url     :"https://seeres.com/search",
-            name    :"q",
-            img     :"./static/icon/seeres.png",
         },
     };
 
