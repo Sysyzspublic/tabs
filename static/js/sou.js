@@ -9,11 +9,10 @@ $(document).ready(function() {
     var se_list_preinstall = {
         '1':{
             id      :1,
-            title   :"Google",
-            url     :"https://www.google.com/search",
+            title   :"Bing",
+            url     :"https://bing.com/search",
             name    :"q",
-            img     :"./static/icon/google_1.png",
-
+            img     :"./static/icon/bing.ico",
         },
         '2':{
             id      :2,
@@ -24,10 +23,10 @@ $(document).ready(function() {
         },
         '3':{
             id      :3,
-            title   :"Bing",
-            url     :"https://bing.com/search",
+            title   :"Google",
+            url     :"https://www.google.com/search",
             name    :"q",
-            img     :"./static/icon/bing.ico",
+            img     :"./static/icon/google_1.png",
         },
     };
 
